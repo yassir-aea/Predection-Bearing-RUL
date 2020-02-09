@@ -22,7 +22,8 @@ try:
         os.makedirs('all_data_csv')
 except:
     print('folders are already existe')
-# change the path with urs path and delet comments
+    
+    #change the path or use cwd 
 folder1 = 'C:\\Users\\yassir\\PycharmProjects\\untitled1\\1st_test\\'
 folder2 = 'C:\\Users\\yassir\\PycharmProjects\\untitled1\\2nd_test\\'
 folder3 = 'C:\\Users\\yassir\\PycharmProjects\\untitled1\\4th_test\\'
